@@ -1,0 +1,2 @@
+GT4500,1,1.0,1,0 # init: primary 100% hibás, secondary jó
+TORPEDO,SINGLE # primary hibát dob, megáll

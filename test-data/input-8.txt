@@ -1,0 +1,3 @@
+GT4500,1,0,0,0 # init: csak 1 torpedó a primary-ben
+TORPEDO,SINGLE # elsüti a primary-t, wasPrimaryFiredLast = true lesz
+TORPEDO,SINGLE # secondary üres, átlép az else ágra -> primary is üres (61. sor hamis ág)

@@ -1,0 +1,2 @@
+GT4500,0,0,1,0 # init: primary üres, secondary-ben van 1
+TORPEDO,ALL    # megpróbálja mindkettőt (91. sor hamis ág)
